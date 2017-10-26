@@ -444,6 +444,7 @@ noInfo: true
 `boolean`
 
 When `open` is enabled, the dev server will open the browser.
+启用打开时，开发者服务器将打开浏览器
 
 ```js
 open: true
@@ -461,6 +462,7 @@ webpack-dev-server --open
 `string`
 
 Specify a page to navigate to when opening the browser.
+指定打开浏览器时要导航的页面
 
 ```js
 openPage: '/different/page'
